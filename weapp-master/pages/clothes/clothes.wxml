@@ -1,0 +1,4 @@
+<!--pages/clothes/clothes.wxml-->
+<view class="detail-imgclass">
+  <image class="detail-img" src='{{good.pic_url}}'/>
+</view>
